@@ -11,6 +11,7 @@ namespace myWebApp
 {
     public class Program
     {
+        // this is a comment
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
